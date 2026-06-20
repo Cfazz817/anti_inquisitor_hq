@@ -39,7 +39,7 @@ body {
     /* Centers the website */
     padding: 20px;
     /* The linear-gradient adds a 70% dark overlay on top of the image */
-    background-image: linear-gradient(rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), url('/assets/images/ishis.jpg');
+    background-image: linear-gradient(rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), url('assets/images/ishis.jpg');
 
     background-size: cover;
     /* Forces the image to cover the entire screen */
